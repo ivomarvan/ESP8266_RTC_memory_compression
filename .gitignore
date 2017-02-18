@@ -1,2 +1,5 @@
 .idea/
-
+__init__.py
+__pycache__
+cmake-build-debug/
+data/energomonitor/
