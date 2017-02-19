@@ -1,0 +1,3 @@
+[submodule "cpp/libs/Catch"]
+	path = cpp/libs/Catch
+	url = https://github.com/philsquared/Catch
